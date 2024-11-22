@@ -164,7 +164,7 @@ int main() {
     int total_students = 0;
     cout << "Enter the total number of students: ";
     cin >> total_students;
-    student arrstudent[total_students];
+    student *arrstudent = new student [total_students];
 
     for (int i = 0; i < total_students; i++) {
         arrstudent[i].get_details();
@@ -175,5 +175,7 @@ int main() {
     arrstudent[0].print_shortage(arrstudent, total_students);
     arrstudent[0].show_above_90(arrstudent, total_students);
 
+    delete[] arrstudent;
+    
     return 0;
 }

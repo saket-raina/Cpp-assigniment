@@ -1,1 +1,1 @@
-C++ program for makung the student record.
+C++ program for making a student record.

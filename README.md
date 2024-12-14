@@ -90,7 +90,7 @@ Marks: 88.5
 3. **Searching by Roll Number**
 
 
--**When Found:**
+- **When Found:**
 ```
 Enter Roll Number to search: 102
 Student Found:
@@ -99,7 +99,7 @@ Name: Alice
 Marks: 88.5
 ```
 
--**When Not Found:**
+- **When Not Found:**
 ```
 Enter Roll Number to search: 103
 Student with roll number 103 does not exist.

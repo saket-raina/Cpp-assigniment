@@ -1,0 +1,150 @@
+1
+Saket Raina
+99
+2
+Sidhant Verma
+99
+4
+Hirday Gupta
+98
+5
+Ocean Gupta
+98
+6
+Antriksh Verma
+97
+7
+Vardaan Sharma
+99
+8
+Ankur Sharma
+98
+9
+Khushmeet Singh
+99
+10
+Avni Mahajan
+98
+11
+Bhoomi Sharma
+98
+12
+Gunveer Singh
+99
+13
+Harshita Jamwal
+98
+14
+Tarun Sharma
+50
+15
+Akshat Gupta
+99
+16
+Mannat Sudan
+98
+17
+Amir Rasheed
+98
+18
+Anubhav Dubey
+99
+19
+Pranshu Sharma
+98
+20
+Abhishek
+99
+21
+Rohan Singh
+97
+22
+Vivek Sharma
+99
+23
+Rushil Khajuria
+98
+24
+Soham Bharti
+97
+25
+Bikram Singh Ranyal
+98
+26
+Nandan Sharma
+99
+27
+Aamir Maqsood
+98
+28
+Aadity Verma
+98
+29
+Aadhya Sharma
+99
+30
+Rakshita Pandith
+98
+31
+Arush Bhagat
+99
+32
+Barbie Koushal
+97
+33
+Tanushree Ganju
+98
+34
+Faheem Ilyas
+97
+35
+Arshiva Verma
+97
+36
+Tankrit Singh
+99
+37
+Yashsavi Thakur
+98
+38
+Nasar Mushtaq
+98
+39
+Tushar Verma
+98
+40
+Kuldeep Zarial
+98
+41
+Amit Sharma
+99
+42
+Parshita Kalsotra
+99
+43
+Pranjal Sharma
+98
+44
+Kreetika Kataria
+98
+45
+Tosief Ummer
+96
+46
+Mohd Madassar
+96
+47
+Shiveka
+98
+48
+Siya
+98
+49
+Sheetal
+98
+50
+Bhoomi
+98
+51
+Shabnam
+97

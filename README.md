@@ -35,18 +35,18 @@ The program reads and writes student data to a file called `students.txt`. Each 
 2. **Compilation**:
    Compile the program using the following command:
    ```
-   g++ -o student_management student_management.cpp
+   g++ -o student-management-system student-management-system.cpp
    ```
 
 3. **Execution**:
    Run the program with:
    ```
-   ./student_management
+   ./student-management-system
    ```
 
 4. **Using the Program**:
    - Follow the on-screen menu to interact with the program.
-   - Enter your choice (1-4) to perform actions like adding a student, displaying records, or searching by roll number.
+   - Enter your choice to perform actions like adding a student, displaying records, or searching by roll number.
 
 ## Menu Options
 
